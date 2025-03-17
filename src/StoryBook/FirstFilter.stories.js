@@ -1,5 +1,5 @@
 import React from 'react';
-import FirstFilter from './FirstFilter';
+import FirstFilter from '../components/FirstFilter';
 
 export default {
   title: 'Components/FirstFilter',
